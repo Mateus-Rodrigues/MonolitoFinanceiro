@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/13 20:47:39.000.671,=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/27 00:37:38.562,=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/27 00:39:21.987,C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Principal.pas=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/27 00:39:21.987,C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Principal.dfm=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/27 00:39:48.862,C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\MonolitoFinanceiro.dproj=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/27 01:03:38.351,=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2024/03/27 01:05:38.007,C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.CadastroPadrao.dfm=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\Unit1.dfm</Transaction>
+    <Transaction>2024/03/27 01:05:38.007,C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.CadastroPadrao.pas=C:\Users\mateu\OneDrive\Documentos\Embarcadero\Studio\Projects\MonolitoFinanceiro\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
